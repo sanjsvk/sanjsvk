@@ -17,6 +17,6 @@
 <a href="https://www.linkedin.com/in/sanjanvijayakumar/"><img src="https://img.shields.io/badge/-Sanjan%20Vijayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vijayakumar.sa@northeastern.edu"><img src="https://img.shields.io/badge/-vijayakumar.sa@northeastern.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sanj.an/?hl=en"><img src="https://img.shields.io/badge/-@sanj.an-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="hhttps://www.facebook.com/sanjan.vijayakumar/"><img src="https://img.shields.io/badge/-@Sanjan Vijayakumar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="hhttps://www.facebook.com/sanjan.vijayakumar/"><img src="https://img.shields.io/badge/-Sanjan Vijayakumar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
