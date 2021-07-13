@@ -5,6 +5,8 @@
 * Prior to this, I was a Data Scientist Intern at eMotionRx, Inc.
 * I'm extremely interested in leveraging concepts of Data Science and Machine Learning in making progress in the field of healthcare.
 
+<br>
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjsvk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanjan Vijayakumar's Github Stats">
 
