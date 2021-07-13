@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi, I am Sanjan! </h1>
 #### I'm Sanjan! I'm a Data Scientist pursuing my Master's degree in Data Science at Northeastern University, Boston.
 #### I'm currently working as a Data Science Intern at LabCorp. 
 #### Prior to this, I was a Data Scientist Intern at eMotionRx, Inc. I'm extremely interested in leveraging concepts of Data Science and Machine Learning in making progress in the field of healthcare.
